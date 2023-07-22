@@ -1,16 +1,20 @@
-### Hi there 👋
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/962417173043753022?hideDiscrim=true)](https://discord.com/users/962417173043753022)
 
-<!--
-**ramalcik/ramalcik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Ben Kimim</h2>
 
-Here are some ideas to get you started:
+```js
+class Papaz {
+    constructor(options) {
+        this.name = "Ramal",
+        this.sex = "Man",
+        this.length = "183",
+        this.type = "human",
+        this.job = "kafasına göre",
+        this.weight = "72",
+        this.age = "19",
+        this.discord.tag = "ramal."
+    };
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+module.exports = Ramal
+```
