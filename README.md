@@ -12,7 +12,7 @@ class Ramal {
         this.job = "kafasına göre",
         this.weight = "72",
         this.age = "20",
-        this.discord.tag = "ramalcik"
+        this.discord.tag = "ramalchavo."
     };
 }
 
