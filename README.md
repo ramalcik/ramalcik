@@ -7,12 +7,12 @@ class Ramal {
     constructor(options) {
         this.name = "Ramal",
         this.sex = "Man",
-        this.length = "183",
+        this.length = "186",
         this.type = "human",
-        this.job = "kafasına göre",
+        this.job = "bilmiom",
         this.weight = "72",
         this.age = "20",
-        this.discord.tag = "ramalchavo."
+        this.discord.tag = "ramalchavo"
     };
 }
 
