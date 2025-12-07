@@ -1,4 +1,4 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/490096318807801876?hideDiscrim=true)](https://discord.com/users/1398384799097426122)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1232098401404063795?hideDiscrim=true)](https://discord.com/users/1232098401404063795)
 
 <h2>Ben Kimim</h2>
 
@@ -11,8 +11,8 @@ class Ramal {
         this.type = "human",
         this.job = "bilmiom",
         this.weight = "72",
-        this.age = "20",
-        this.discord.tag = "ramalchavo"
+        this.age = "21",
+        this.discord.tag = "ramalchavo_"
     };
 }
 
